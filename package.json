@@ -1,7 +1,7 @@
 {
   "name": "digitalroot",
   "version": "1.0.0",
-  "description": "find digital root of an input number",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -10,14 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/SKR301/digitalRoot.git"
   },
-  "keywords": [
-    "digit_sum",
-    "digitalroot",
-    "digital",
-    "root",
-    "sum_of_digits"
-  ],
-  "author": "Saurav Kumar",
+  "author": "SKR301",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SKR301/digitalRoot/issues"
