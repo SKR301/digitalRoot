@@ -1,3 +1,7 @@
+![Release](https://badgen.net/github/release/SKR301/digitalRoot)
+![Stability](https://badgen.net/github/checks/SKR301/digitalRoot)
+
+
 # digitalRoot
 A library to find [digital root](https://brilliant.org/wiki/digital-root/) of a number
 
