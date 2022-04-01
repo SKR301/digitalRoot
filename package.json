@@ -1,5 +1,5 @@
 {
-  "name": "@skr301/digitalroot",
+  "name": "digitalroot",
   "version": "1.0.0",
   "description": "find digital root of an input number",
   "main": "index.js",
