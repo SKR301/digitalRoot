@@ -1,5 +1,5 @@
 {
-  "name": "digitalroot",
+  "name": "@skr301/digitalroot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/SKR301/digitalRoot.git"
   },
   "author": "SKR301",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/SKR301/digitalRoot/issues"
   },
